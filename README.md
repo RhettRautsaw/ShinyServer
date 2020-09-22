@@ -19,7 +19,7 @@ Additional sources include:
 
 # Shiny Apps
 
-| Title                     | GitHub | Shiny |
-|---------------------------|--------|-------|
-| Sequencing Estimator      | github.com/reptilerhett/SequencingEstimator | reptilerhett.app/shiny/SequencingEstimator |
-| New World Pitviper Ranges | github.com/reptilerhett/NW_PitviperRanges | reptilerhett.app/shiny/NW_PitviperRanges |
+| Title                     | GitHub                                                | Shiny                                               |
+|---------------------------|-------------------------------------------------------|-----------------------------------------------------|
+| Sequencing Estimator      | [GitHub](github.com/reptilerhett/SequencingEstimator) | [Shiny](reptilerhett.app/shiny/SequencingEstimator) |
+| New World Pitviper Ranges | [GitHub](github.com/reptilerhett/NW_PitviperRanges)   | [Shiny](reptilerhett.app/shiny/NW_PitviperRanges)   |
