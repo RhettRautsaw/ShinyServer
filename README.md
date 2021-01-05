@@ -2,9 +2,9 @@
 
 ## Rhett M. Rautsaw
 
-[https://reptilerhett.app/](https://reptilerhett.app/)
+[https://RhettRautsaw.app/](https://RhettRautsaw.app/)
 
-This repository contains the html code for my [Digital Ocean](https://www.digitalocean.com/) Droplet [welcome page](https://reptilerhett.app/) and my [Shiny Server](https://reptilerhett.app/shiny).
+This repository contains the html code for my [Digital Ocean](https://www.digitalocean.com/) Droplet [welcome page](https://RhettRautsaw.app/) and my [Shiny Server](https://RhettRautsaw.app/shiny).
 
 This code and the asthetics of my server is based entirely on the work of [Dr. Saskia A. Otto](https://saskiaotto.de/). 
 
@@ -21,5 +21,5 @@ Additional sources include:
 
 | Title                     | GitHub                                                        | Shiny                                                       |
 |---------------------------|---------------------------------------------------------------|-------------------------------------------------------------|
-| Sequencing Estimator      | [GitHub](https://github.com/reptilerhett/SequencingEstimator) | [Shiny](https://reptilerhett.app/shiny/SequencingEstimator) |
-| New World Pitviper Ranges | [GitHub](https://github.com/reptilerhett/NW_PitviperRanges)   | [Shiny](https://reptilerhett.app/shiny/NW_PitviperRanges)   |
+| Sequencing Estimator      | [GitHub](https://github.com/RhettRautsaw/SequencingEstimator) | [Shiny](https://RhettRautsaw.app/shiny/SequencingEstimator) |
+| New World Pitviper Ranges | [GitHub](https://github.com/RhettRautsaw/NW_PitviperRanges)   | [Shiny](https://RhettRautsaw.app/shiny/NW_PitviperRanges)   |
