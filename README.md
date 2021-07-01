@@ -26,6 +26,8 @@ The website html is managed by nginx.
 - The welcome page html is located here: `/var/www/html/`
 - Once updated, you will need to restart nginx: `sudo service nginx restart`
 
+Shiny configuration file is located here: `/etc/shiny-server/shiny-server.conf`
+
 ### How to change the Droplet/Hostname
 - Got to DigitalOcean.com and rename the Droplet
 - On the server edit `/etc/hosts` and `/etc/hostname`
