@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="143.54236"
+   width="130.05292"
+   viewBox="0 0 130.05291 143.54236"
+   version="1.1"
+   id="svg1132"
+   sodipodi:docname="BiologyPhDStipends.svg"
+   inkscape:export-filename="/Users/rhettrautsaw/Dropbox/GitHub/ShinyServer/Apps/CoordinateMapper/www/CoordinateMapper.png"
+   inkscape:export-xdpi="350"
+   inkscape:export-ydpi="350"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <metadata
+     id="metadata1136">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
+     id="namedview1134"
+     showgrid="false"
+     inkscape:zoom="2.6618963"
+     inkscape:cx="148.20933"
+     inkscape:cy="73.681312"
+     inkscape:window-x="0"
+     inkscape:window-y="177"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1132" />
+  <defs
+     id="defs835">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1020">
+      <stop
+         style="stop-color:#f86503;stop-opacity:1"
+         offset="0"
+         id="stop1016" />
+      <stop
+         id="stop1024"
+         offset="0.5"
+         style="stop-color:#ffffff;stop-opacity:0.9137255" />
+      <stop
+         style="stop-color:#015299;stop-opacity:0.82745099"
+         offset="1"
+         id="stop1018" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style833"><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+    <style
+       id="style833-0">.cls-1{fill:#fff;}</style>
+    <clipPath
+       id="cpMC4wMHwxMjQuNDR8MTQ0LjAwfDAuMTQ=-3">
+      <rect
+         id="rect851-6"
+         height="143.85001"
+         width="124.44"
+         y="0.14"
+         x="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1096">
+      <polyline
+         id="polyline1098"
+         clip-path="url(#cpMC4wMHwxMjQuNDR8MTQ0LjAwfDAuMTQ=-3)"
+         style="fill:none;stroke:#28c218;stroke-width:2.56;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+         points="1.08,36.81 1.08,107.33 62.15,142.59 123.22,107.33 123.22,36.81 62.15,1.55 1.08,36.81 1.08,36.81 "
+         transform="matrix(1,0,0,0.89182716,-3.604509,8.5656268)" />
+    </clipPath>
+    <clipPath
+       id="clipPath1971"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         transform="scale(-1,1)"
+         y="84.695747"
+         x="-392.24344"
+         height="49.856361"
+         width="40.245495"
+         id="rect1973"
+         style="opacity:0.504823;fill:#800067;fill-opacity:1;stroke-width:0;stroke-miterlimit:10" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="linearGradient1022"
+       x1="0"
+       y1="72.07"
+       x2="124.44"
+       y2="72.07"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     y="-0.29881939"
+     x="0.02484698"
+     width="100%"
+     height="100%"
+     style="fill:none;stroke:none"
+     id="rect837" />
+  <defs
+     id="defs842">
+    <clipPath
+       id="cpMC4wMHwxMjQuNDR8MTQzLjg2fDAuMTQ=">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.71001"
+         id="rect839" />
+    </clipPath>
+  </defs>
+  <rect
+     transform="translate(0.02484698,-0.2988194)"
+     x="0"
+     y="0.14"
+     width="124.44"
+     height="143.71001"
+     style="stroke:none;stroke-width:1.07"
+     clip-path="url(#cpMC4wMHwxMjQuNDR8MTQzLjg2fDAuMTQ=)"
+     id="rect844" />
+  <defs
+     id="defs849">
+    <clipPath
+       id="cpMC4wMHwxMjQuNDR8MTQ0LjAwfDAuMDA=">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect846" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs854">
+    <clipPath
+       id="cpMC4wMHwxMjQuNDR8MTQ0LjAwfDAuMTQ=">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect851" />
+    </clipPath>
+  </defs>
+  <rect
+     transform="translate(0.02484698,-0.2988194)"
+     x="-0.14"
+     y="0.14"
+     width="124.58"
+     height="143.85001"
+     style="stroke:none;stroke-width:1.07"
+     clip-path="url(#cpMC4wMHwxMjQuNDR8MTQ0LjAwfDAuMTQ=)"
+     id="rect856" />
+  <polygon
+     transform="translate(0.02484698,-0.2988194)"
+     points="62.15,142.59 123.22,107.33 123.22,36.81 62.15,1.55 1.08,36.81 1.08,107.33 "
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.56"
+     clip-path="url(#cpMC4wMHwxMjQuNDR8MTQ0LjAwfDAuMTQ=)"
+     id="polygon858" />
+  <defs
+     id="defs863">
+    <clipPath
+       id="cpNDEuMDB8MTE4LjU2fDExNy41N3wyNi41Nw==">
+      <rect
+         x="41"
+         y="26.57"
+         width="77.57"
+         height="91"
+         id="rect860" />
+    </clipPath>
+  </defs>
+  <rect
+     transform="translate(0.02484698,-0.2988194)"
+     x="41"
+     y="26.57"
+     width="77.57"
+     height="91"
+     style="stroke:none;stroke-width:1.16"
+     clip-path="url(#cpNDEuMDB8MTE4LjU2fDExNy41N3wyNi41Nw==)"
+     id="rect865" />
+  <defs
+     id="defs871">
+    <clipPath
+       id="clipPath869">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect867" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs876">
+    <clipPath
+       id="cpNDkuOTZ8MTEyLjU5fDEwOC42MHwzMi41NQ==">
+      <rect
+         x="49.959999"
+         y="32.549999"
+         width="62.619999"
+         height="76.050003"
+         id="rect873" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs914">
+    <clipPath
+       id="clipPath912">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect910" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs920">
+    <clipPath
+       id="clipPath918">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect916" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs926">
+    <clipPath
+       id="clipPath924">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect922" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs932">
+    <clipPath
+       id="clipPath930">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect928" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs938">
+    <clipPath
+       id="clipPath936">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect934" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs944">
+    <clipPath
+       id="clipPath942">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect940" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs950">
+    <clipPath
+       id="clipPath948">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect946" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs956">
+    <clipPath
+       id="clipPath954">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect952" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs962">
+    <clipPath
+       id="clipPath960">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect958" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs968">
+    <clipPath
+       id="clipPath966">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect964" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs974">
+    <clipPath
+       id="clipPath972">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect970" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs980">
+    <clipPath
+       id="clipPath978">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect976" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs986">
+    <clipPath
+       id="clipPath984">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect982" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs992">
+    <clipPath
+       id="clipPath990">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect988" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs998">
+    <clipPath
+       id="clipPath996">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect994" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1004">
+    <clipPath
+       id="clipPath1002">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1000" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1010">
+    <clipPath
+       id="clipPath1008">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1006" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1016">
+    <clipPath
+       id="clipPath1014">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1012" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1022">
+    <clipPath
+       id="clipPath1020">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1018" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1028">
+    <clipPath
+       id="clipPath1026">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1024" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1034">
+    <clipPath
+       id="clipPath1032">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1030" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1040">
+    <clipPath
+       id="clipPath1038">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1036" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1046">
+    <clipPath
+       id="clipPath1044">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1042" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1052">
+    <clipPath
+       id="clipPath1050">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1048" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1058">
+    <clipPath
+       id="clipPath1056">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1054" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1064">
+    <clipPath
+       id="clipPath1062">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1060" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1070">
+    <clipPath
+       id="clipPath1068">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1066" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1076">
+    <clipPath
+       id="clipPath1074">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1072" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1082">
+    <clipPath
+       id="clipPath1080">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1078" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1088">
+    <clipPath
+       id="clipPath1086">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1084" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1094">
+    <clipPath
+       id="clipPath1092">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1090" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1100">
+    <clipPath
+       id="clipPath1098">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1096" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs1106">
+    <clipPath
+       id="clipPath1104">
+      <rect
+         x="0"
+         y="0.14"
+         width="124.44"
+         height="143.85001"
+         id="rect1102" />
+    </clipPath>
+  </defs>
+  <polyline
+     transform="matrix(1.0451054,0,0,0.99959889,0,-0.26991152)"
+     points="1.08,36.81 1.08,107.33 62.15,142.59 123.22,107.33 123.22,36.81 62.15,1.55 1.08,36.81 1.08,36.81 "
+     style="fill:url(#linearGradient1022);fill-opacity:1;stroke:#000000;stroke-width:2.56;stroke-opacity:1"
+     clip-path="url(#cpMC4wMHwxMjQuNDR8MTQ0LjAwfDAuMTQ=)"
+     id="polyline1108" />
+  <defs
+     id="defs1130">
+    <clipPath
+       id="clipPath1128">
+      <rect
+         x="0"
+         y="0"
+         width="124.44"
+         height="144"
+         id="rect1126" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(0.02484698,-14.307562)"
+     id="g1015">
+    <text
+       transform="matrix(0.89863707,-0.00340154,0.00274694,1.1127859,0,0)"
+       x="68.59417"
+       y="69.681458"
+       id="text3397"
+       style="font-style:normal;font-weight:normal;font-size:18.2265px;line-height:1.35;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.70873"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.2265px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1.70873"
+         y="69.681458"
+         x="68.59417"
+         sodipodi:role="line"
+         id="tspan1010">Biology</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.2265px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1.70873"
+         y="94.796776"
+         x="68.59417"
+         sodipodi:role="line"
+         id="tspan1014">PhD Stipends</tspan></text>
+  </g>
+</svg>
