@@ -41,3 +41,7 @@ Shiny configuration file is located here: `/etc/shiny-server/shiny-server.conf`
 - Reload nginx `sudo systemctl reload nginx`
 - Obtain an SSL Certificate with Certbot
 	- `sudo certbot --nginx -d example.com -d www.example.com`
+
+
+In case I need to add a app session timeout:
+https://stackoverflow.com/questions/33839543/shiny-server-session-time-out-doesnt-work
